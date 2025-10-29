@@ -1,4 +1,4 @@
-package dk.easv;
+package dk.easv.gui;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
